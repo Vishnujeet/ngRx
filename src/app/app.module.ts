@@ -6,7 +6,6 @@ import { RouterModule, Route } from '@angular/router';
 import { EffectsModule } from '@ngrx/effects';
 
 import { AppComponent } from './app.component';
-import { HelloComponent } from './hello.component';
 import { LogInComponent } from './components/log-in/log-in.component';
 import { SignUpComponent } from './components/sign-up/sign-up.component';
 import { AuthService } from './services/auth.service';
